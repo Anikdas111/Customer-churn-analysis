@@ -6,6 +6,10 @@ This project analyzes customer churn data and patterns to identify key factors i
 ## Objective
 To understand which customer segments are most likely to churn and provide actionable business recommendations.
 
+## Business Questions
+- Why churns are happening and what are the rates of churning?
+- 
+
 ## Key insights
 - Customers in their first 12 months of lifecycle have the highest churn rate.
 - Churn decreases as tenure increases.
